@@ -1,7 +1,7 @@
 # Comprehensive Inventory Management System
 ## Description
 
-This is a comprehensive inventory management system developed in C#. It allows shopkeepers to efficiently manage stocks, product orders, billing, and user management. The system is designed to streamline inventory processes and improve overall efficiency.
+This is a comprehensive sales & inventory management system developed in C#. It allows shopkeepers to efficiently manage stocks, product orders, billing, and user management. The system is designed to streamline inventory processes and improve overall efficiency.
 
 ## Features
 
